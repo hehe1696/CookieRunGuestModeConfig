@@ -13,7 +13,8 @@
  - BONUSTIME Length Boost (Lv.1-40)
 
 **Additional Settings:**
- There is a list of extra settings the user can choose to enable or disable, which range from additional Boosts to settings that may affect Guest Mode entirely.
+
+There is a list of extra settings the user can choose to enable or disable, which range from additional Boosts to settings that may affect Guest Mode entirely.
  - **Please note the "Cookie Skill Slots taken" counter, as it displays how many available skill slots the current Cookie has. If your extra settings make it go over, then some settings you applied will not show.** Also note that skill slots for the Relay will still apply but will not be shown, so check the skill slots of the Relay by changing the first Cookie.
  - Setting #6, or "Custom skills for Pet22/Pet25" will give custom skills to the two unused Pets Banana Potion and Mr. Pizza. **If Pet25 (Mr. Pizza) is selected, the game will crash unless this setting is enabled.**
  - Setting #7, or "Fix Rockstar Music" will swap the normal running music for Rockstar Cookie's music. This is because in Guest Mode, Rockstar's music normally does not work properly and the default running music is used instead. Please note that when using this setting, the music will also apply to the Relay.
