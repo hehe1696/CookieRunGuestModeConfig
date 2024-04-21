@@ -11,8 +11,14 @@
  - Starting Energy Boost (Lv.1-50)
  - Jelly Score Boost (Lv.1-40)
  - BONUSTIME Length Boost (Lv.1-40)
-   
- **Limitations:**
+
+**Additional Settings:**
+ There is a list of extra settings the user can choose to enable or disable, which range from additional Boosts to settings that may affect Guest Mode entirely.
+ - **Please note the "Cookie Skill Slots taken" counter, as it displays how many available skill slots the current Cookie has. If your extra settings make it go over, then some settings you applied will not show.** Also note that skill slots for the Relay will still apply but will not be shown, so check the skill slots of the Relay by changing the first Cookie.
+ - Setting #6, or "Custom skills for Pet22/Pet25" will give custom skills to the two unused Pets Banana Potion and Mr. Pizza. **If Pet25 (Mr. Pizza) is selected, the game will crash unless this setting is enabled.**
+ - Setting #7, or "Fix Rockstar Music" will swap the normal running music for Rockstar Cookie's music. This is because in Guest Mode, Rockstar's music normally does not work properly and the default running music is used instead. Please note that when using this setting, the music will also apply to the Relay.
+
+**Limitations:**
  - Only versions of Cookie Run for Kakao from 1.0 to 4.21 will work, as the method of encryption is changed after 4.21
  - Treasures or other misc. Boosts cannot be added since they don't show (other settings for useful buffs are included to help combat this)
  - Some settings will not be visible when playing Guest Mode such as the Relay icon, but will still function properly
